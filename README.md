@@ -27,7 +27,6 @@ Anaconda - Python 3.7
 
 # i) Convert BGR and RGB to HSV and GRAY
 
-```python
 import cv2
 house_color_image = cv2.imread('house.jpg')
 cv2.imshow('original image',house_color_image)
@@ -64,7 +63,6 @@ cv2.destroyAllWindows()
 
 
 
-```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 ![image](https://user-images.githubusercontent.com/70213227/162403201-8f947432-d8fa-4bf9-ac04-dcf2341931ba.png)
