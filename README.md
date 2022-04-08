@@ -22,8 +22,9 @@ Anaconda - Python 3.7
 
 ## Program:
 ```python
-# Developed By:
-# Register Number:
+# Developed By:Aishree Ramesh
+# Register Number:212220230003
+
 # i) Convert BGR and RGB to HSV and GRAY
 
 ```python
