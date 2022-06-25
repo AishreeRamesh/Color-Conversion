@@ -34,9 +34,9 @@ Output the image using cv2.imshow("OUTPUT", image)
 ```python
 # Developed By:Aishree Ramesh
 # Register Number:212220230003
-
+```
 # i) Convert BGR and RGB to HSV and GRAY
-
+```
 import cv2
 house_color_image = cv2.imread('house.jpg')
 cv2.imshow('original image',house_color_image)
